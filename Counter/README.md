@@ -1,4 +1,4 @@
-[실습] Counter 만들기
+# [실습] Counter 만들기
 
 <aside>
 💡 **Goal : useState와 이벤트 핸들러를 이용해서 실습 과제를 완성해봅니다.**
